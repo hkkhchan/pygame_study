@@ -30,4 +30,4 @@ def run_game():
         gf.check_events()
         gf.update_screen(ai_settings, screen, ship)
 run_game()
->>>>>>> e23426df7249af5bcb36ceff96f1cd9b715a9f39
+
