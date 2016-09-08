@@ -19,7 +19,7 @@ class Settings():
         self.speedup_scale = 1.1
         self.initialize_dynamic_settings()
         
-    def self.initialize_dynamic_settings(self):
+    def initialize_dynamic_settings(self):
         self.ship_speed_factor = 1.5
         self.bullet_speed_factor = 3
         self.alien_speed_factor = 1
