@@ -14,7 +14,7 @@ class Settings():
         self.bullets_allowed = 5
         
         # alien
-        self.fleet_drop_speed = 10
+        self.fleet_drop_speed = 40
         
         self.speedup_scale = 1.1
         self.score_scale = 1.5
