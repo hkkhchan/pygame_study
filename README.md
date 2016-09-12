@@ -8,3 +8,6 @@
 
 開始前,都想過應該比自己多d時間恩考,好不好. 但由於唔想停留太耐. 很多時間直接照書本打便做了.
 期待下次做更好的練習.
+
+# 產成品展視
+[![screenshot](/images/screen.jpg)](https://www.youtube.com/watch?v=xSGFq-Z5-NM)
